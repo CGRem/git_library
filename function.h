@@ -1,2 +1,2 @@
 #pragma once
-// описание
+int summ_r(int a, int b);

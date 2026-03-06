@@ -1,2 +1,5 @@
 #include "function.h"
-// описание
+int summ_r(int a, int b) {
+	int cc2 = a + b;
+	return cc2;
+}
