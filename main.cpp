@@ -5,6 +5,7 @@ using namespace std;
 
 int main()
 {
+    setlocale(LC_ALL, "");
     cout << "Hello, world!" << endl;
     cout << func_r::summ_r(2, 5) << endl;
     //system("pause"); // Только для тех, у кого MS Visual Studio
