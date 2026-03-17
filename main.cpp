@@ -16,12 +16,12 @@ int main()
         //system("cls");
         cout << des_u << endl;
     }
-    for (int i = 0; i < 80; i++) {
+    /*for (int i = 0; i < 80; i++) {
 
         des_u = des_u.erase();
         //system("cls");
         cout << des_u << endl;
-    }
-    //system("pause"); // Только для тех, у кого MS Visual Studio
+    }*/
+    system("pause"); // Только для тех, у кого MS Visual Studio
     return 0;
 }
